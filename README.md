@@ -5,4 +5,4 @@ In this study we selected 16 indicators (count-based, mass-based, and dose-based
 
 Here we included Supplementary Material as part of the study:
 * A word document ("Supplementary Material") that includes 3 supplementary tables. The tables include the definitions of original and standardized terms and reasoning behing the scores of each indicator.
-* An excel document ("Supplementary Table S2") that details the calculations for a hypothetical dairy farm.
+* An excel document ("Supplementary Data 1") that details the calculations for a hypothetical dairy farm.
