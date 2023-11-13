@@ -1,5 +1,5 @@
 # AMU-indicators
-**Zhengyu Lu, Ece Bulut, Daryl V. Nydam and Renata Ivanek. Standardization and evaluation of indicators for quantifying antimicrobial use on U.S. dairy farms. (Currently in review)**
+**Zhengyu Lu, Ece Bulut, Daryl V. Nydam and Renata Ivanek. Standardization and evaluation of indicators for quantifying antimicrobial use on U.S. dairy farms. (2023 Frontiers in Antibiotics 2:1176817. doi: 10.3389/frabi.2023.1176817)**
 
 In this study we selected 16 indicators (count-based, mass-based, and dose-based) applicable for quantifying antimicrobial use (AMU) on U.S. dairy farms. The objectives of this study were to standardize and evaluate these existing AMU indicators based on their accuracy, data needs and effort required, privacy concerns, and ability to inform antimicrobial stewardship in order to aid their uptake on U.S. dairy farms.
 
